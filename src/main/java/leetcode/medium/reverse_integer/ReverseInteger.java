@@ -1,5 +1,6 @@
 package leetcode.medium.reverse_integer;
 
+import java.util.Objects;
 import java.util.Scanner;
 
 public class ReverseInteger {
@@ -52,5 +53,54 @@ class Solution {
             return Integer.parseInt("-" + sb.toString());
         }
 
+    }
+}
+
+class Test {
+    private String name;
+
+    public Test setName(String name) {
+        this.name = name;
+        return this;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public Test setAddress(String address) {
+        this.address = address;
+        return this;
+    }
+
+    private String address;
+
+    public Test(String name, String address) {
+        this.name = name;
+        this.address = address;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Test test)) return false;
+        return getName().equals(test.getName()) && getAddress().equals(test.getAddress());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getName(), getAddress());
+    }
+
+    @Override
+    public String toString() {
+        return "Test{" +
+                "name='" + name + '\'' +
+                ", address='" + address + '\'' +
+                '}';
     }
 }
