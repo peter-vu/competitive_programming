@@ -3,8 +3,10 @@ import java.util.Optional;
 
 public class Test {
     public static void main(String[] args) throws Exception {
-        BigDecimal a = null;
-        Optional<BigDecimal> opt = Optional.ofNullable(a);
-        System.out.println(opt.orElseGet(null));
+        Long a = Long.valueOf (12345);
+        Long b = Long.parseLong("12345");
+        Long c = Long.valueOf (12345);
+        System.out.println(a == b);
+        System.out.println(a == c);
     }
 }
