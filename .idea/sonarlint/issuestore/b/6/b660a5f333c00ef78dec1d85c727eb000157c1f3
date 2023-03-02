@@ -1,8 +1,19 @@
 
+W
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(†Á¸ÿÿÿÿÿ
+R
+java:S4973
+"<Strings and Boxed types should be compared using "equals()".(õÁÒ—
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÑÌ§«üÿÿÿÿ8Ï…’Ûè0
 0
 java:S1220""Move this file to a named package.
-X
-java:S2259"BA "NullPointerException" could be thrown; "null" is nullable here.(¸îõ…
-‡
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¸îõ…
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(†Á¸ÿÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(õÁÒ—
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÌ§«üÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æí’ğøÿÿÿÿ8“Š¡Ûè0
+N
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8¸¾ Ûè0
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8¸¾ Ûè0

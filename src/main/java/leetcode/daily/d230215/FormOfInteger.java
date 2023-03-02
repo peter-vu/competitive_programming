@@ -60,7 +60,7 @@ class Solution {
         }
 
         List<Integer> result2 = new ArrayList<>();
-        for(int i = 0; i < result.size(); i++) {
+        for (int i = 0; i < result.size(); i++) {
             result2.add(result.get(result.size() - 1 - i));
         }
         return result2;
@@ -112,7 +112,7 @@ class Solution2 {
         }
 
         List<Integer> result2 = new ArrayList<>();
-        for(int i = 0; i < result.size(); i++) {
+        for (int i = 0; i < result.size(); i++) {
             result2.add(result.get(result.size() - 1 - i));
         }
         return result2;

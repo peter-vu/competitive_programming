@@ -13,7 +13,7 @@ class Solution {
     public String addBinary(String a, String b) {
         StringBuilder sb = new StringBuilder();
         // makes a as longest string
-        if (a.length() < b.length()){
+        if (a.length() < b.length()) {
             String c = a;
             a = b;
             b = c;
@@ -21,12 +21,12 @@ class Solution {
         int lengthDiff = a.length() - b.length();
         b = "0".repeat(lengthDiff) + b;
         char remainder = '0';
-        for(int i = a.length()-1; i >= 0; i--){
+        for (int i = a.length() - 1; i >= 0; i--) {
             String sum = addBinarySingle(a.charAt(i), b.charAt(i), remainder);
             remainder = sum.charAt(0);
             sb.append(sum.charAt(1));
         }
-        if(remainder == '1') sb.append(remainder);
+        if (remainder == '1') sb.append(remainder);
         return sb.reverse().toString();
     }
 
@@ -34,10 +34,10 @@ class Solution {
         String s = "" + a + b + c;
         return switch (s) {
             case "000" -> "00";
-            case "001","010","100" -> "01";
-            case "110","101","011" -> "10";
+            case "001", "010", "100" -> "01";
+            case "110", "101", "011" -> "10";
             case "111" -> "11";
-            default ->  "";
+            default -> "";
         };
     }
 }
