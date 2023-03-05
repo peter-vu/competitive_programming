@@ -8,9 +8,25 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
+/**
+ * Notes for serialization size 1 million objects
+ * Name/Time/Size
+ * Kryo:                148     26000005
+ * JDK Serialization:   8836    26000262
+ * FST                  320     13000041
+ */
 public class Test {
     public static void main(String[] args) throws Exception {
-        fstSerializer();
+        long timeSum = 0;
+        int loop = 100;
+        for(int i = 0; i < loop; i++) {
+            long time1 = System.nanoTime();
+            kryoSerialize();
+            long time2 = System.nanoTime();
+            timeSum += (time2 - time1);
+            System.out.println("Execution time: " + (time2 - time1) / 1_000_000);
+        }
+        System.out.println("Average time: " + (timeSum/loop)/ 1_000_000);
     }
 
     static void fstSerializer() throws Exception {
@@ -62,7 +78,7 @@ public class Test {
 
     static List<Person> generatePersonList() {
         List<Person> personList = new ArrayList<>();
-        int count = 100;
+        int count = 1_000_000;
 
         for(int i = 0; i < count; i++) {
             Person person = new Person("firstName", "lastName", 20, "address");
