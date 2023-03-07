@@ -1,0 +1,6 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ѓэблы€€€€8¬Ёё€к0
+o
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ЛЂфс8…ов€к0
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(”уЇіъ€€€€8Ќов€к0
