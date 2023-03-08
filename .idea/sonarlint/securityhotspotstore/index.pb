@@ -17,3 +17,7 @@ d
 4src/main/java/leetcode/daily/d230305/JumpGameIV.java,6/7/67c7e744905de6192aea839652199e4ddebd8c38
 ^
 .src/main/java/leetcode/daily/d230305/input.txt,1/0/1030136efa79ad68161f37be315aa9f8b4869487
+^
+.src/main/java/leetcode/daily/d230306/input.txt,9/8/9820ac29e615744b1881bef593c537fc4559ef5f
+r
+Bsrc/main/java/leetcode/daily/d230306/KthMissingPositiveNumber.java,1/1/11a82118a684a63a998d72a195daf2007a64f124
