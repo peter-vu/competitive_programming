@@ -1,0 +1,5 @@
+
+_
+java:S2094	"BRemove this empty class, write its code or make it an "interface".(ύ½Ότ8Λΰΰλ0
+o
+java:S6204'"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή8”Λΰΰλ0
