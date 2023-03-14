@@ -1,5 +1,9 @@
 package leetcode.daily.d230314;
 
+import java.util.AbstractMap;
+import java.util.ArrayDeque;
+import java.util.Deque;
+
 public class SumRootToLeafNumbers {
 }
 
@@ -23,7 +27,34 @@ class TreeNode {
     }
 }
 
+
 class Solution {
+    public int sumNumbers(TreeNode root) {
+        int rootToLeaf = 0, currNumber = 0;
+        Deque<AbstractMap.SimpleImmutableEntry<TreeNode, Integer>> stack = new ArrayDeque();
+        stack.push(new AbstractMap.SimpleImmutableEntry(root, 0));
+
+        while (!stack.isEmpty()) {
+            AbstractMap.SimpleImmutableEntry<TreeNode, Integer> p = stack.pop();
+            root = p.getKey();
+            currNumber = p.getValue();
+
+            if (root != null) {
+                currNumber = currNumber * 10 + root.val;
+                // if it's a leaf, update root-to-leaf sum
+                if (root.left == null && root.right == null) {
+                    rootToLeaf += currNumber;
+                } else {
+                    stack.push(new AbstractMap.SimpleImmutableEntry(root.right, currNumber));
+                    stack.push(new AbstractMap.SimpleImmutableEntry(root.left, currNumber));
+                }
+            }
+        }
+        return rootToLeaf;
+    }
+}
+
+class Solution2 {
     public int sumNumbers(TreeNode root) {
         return sumNumbers(root, 0);
     }
