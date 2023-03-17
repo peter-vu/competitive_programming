@@ -1,4 +1,4 @@
-package leetcode.d230316;
+package leetcode.daily.d230316;
 
 import java.util.HashMap;
 
