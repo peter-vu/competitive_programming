@@ -1,0 +1,6 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(óà…8ìÅœóî0
+m	java:S1165"LRename this field "R" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËšÒŒùÿÿÿÿ8ôÅœóî0
+C
+java:S11705"!Make this final field static too.(ËšÒŒùÿÿÿÿ8õÅœóî0

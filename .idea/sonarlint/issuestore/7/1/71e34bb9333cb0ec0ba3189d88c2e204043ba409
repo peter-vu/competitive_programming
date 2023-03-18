@@ -1,0 +1,30 @@
+
+Q
+java:S1066Z"/Merge this if statement with the enclosing one.(×ì•äıÿÿÿÿ8ª”¾Øî0
+Q
+java:S1066a"/Merge this if statement with the enclosing one.(·Ğ‚şÿÿÿÿ8ª”¾Øî0
+L
+java:S1066h"/Merge this if statement with the enclosing one.(˜Ÿìˆ8ª”¾Øî0
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŞÂšÿÿÿÿÿ8«”¾Øî0
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŞÂšÿÿÿÿÿ8«”¾Øî0
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŞÂšÿÿÿÿÿ8«”¾Øî0
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŞÂšÿÿÿÿÿ8«”¾Øî0
+n
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8ø”¾Øî0
+i
+java:S3008
+"LRename this field "X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰©••8ø”¾Øî0
+i
+java:S3008
+"LRename this field "Y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰©••8ø”¾Øî0
+i
+java:S3008
+"LRename this field "Z" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰©••8ù”¾Øî0
+[
+java:S1659
+">Declare "Y" and all following declarations on a separate line.(‰©••8ù”¾Øî0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8û”¾Øî0
+t
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(üŞÂšÿÿÿÿÿ8ş”¾Øî0
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ÿ”¾Øî0
