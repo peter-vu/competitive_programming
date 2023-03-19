@@ -1,4 +1,4 @@
-package leetcode.daily.p200213.addbinary;
+package leetcode.daily.d200213.addbinary;
 
 public class AddBinary {
     public static void main(String[] args) {

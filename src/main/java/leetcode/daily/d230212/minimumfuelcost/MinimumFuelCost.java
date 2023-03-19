@@ -1,4 +1,4 @@
-package leetcode.daily.p230212.minimumfuelcost;
+package leetcode.daily.d230212.minimumfuelcost;
 
 import java.util.*;
 import java.util.stream.IntStream;

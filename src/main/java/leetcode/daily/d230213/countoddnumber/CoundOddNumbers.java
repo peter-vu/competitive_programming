@@ -1,4 +1,4 @@
-package leetcode.daily.p230213.countoddnumber;
+package leetcode.daily.d230213.countoddnumber;
 
 public class CoundOddNumbers {
     public static void main(String[] args) {

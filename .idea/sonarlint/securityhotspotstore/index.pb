@@ -67,8 +67,6 @@ i
 9src/main/java/leetcode/daily/d230317/TrieKeywordTree.java,3/e/3e0ec94e197ebd242c30b1459ad85c458144378f
 ^
 .src/main/java/leetcode/daily/d230306/input.txt,9/8/9820ac29e615744b1881bef593c537fc4559ef5f
-j
-:src/main/java/leetcode/daily/d230312/MergeKSortedList.java,6/b/6bc3dd47807dc1ba25f7b4405f06d7b386c3d171
 ]
 -src/main/java/leetcode/weekly/w1055/input.txt,0/2/02825a60363dd4ab2c35a2f4fd502abd77468fe1
 n
