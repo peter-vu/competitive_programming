@@ -1,0 +1,7 @@
+
+W
+java:S1854":Remove this useless assignment to local variable "reader".(àªÓÊ8ëä»ºï0
+H
+java:S1481"+Remove this unused "reader" local variable.(àªÓÊ8íä»ºï0
+o
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¦¯Ÿ¥8ïä»ºï0

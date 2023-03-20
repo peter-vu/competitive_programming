@@ -15,6 +15,9 @@ public class DuplicateSymbol {
         Solution s = new Solution();
         result = s.solve(N, X, Y, Z);
         output();
+        Solution2 s2 = new Solution2();
+        result = s2.solve(N, X, Y, Z);
+        output();
     }
 
     static void output() {
@@ -114,3 +117,24 @@ class Solution {
         pq.offer(new int[]{index, d[index]});
     }
 }
+
+/**
+ * int findTotalTime_dp(int N, int X, int Y, int Z) {
+ * std::vector<int> dp(N + 1);
+ * dp[1] = X;
+ * for (int i = 2; i <= N; ++i) dp[i] = std::min(dp[i - 1] + X, dp[(i + 1) / 2] + Z + i % 2 * Y);
+ * return dp[N];
+ * }
+ */
+class Solution2 {
+    public int solve(int N, int X, int Y, int Z) {
+        int[] dp = new int[N + 1];
+        dp[1] = X;
+        for (int i = 2; i <= N; ++i) {
+            dp[i] = Math.min(dp[i - 1] + X, dp[(i + 1) / 2] + Z + i % 2 * Y);
+        }
+        return dp[N];
+    }
+
+}
+
