@@ -1,4 +1,4 @@
-package leetcode.d20230320;
+package leetcode.daily.d230320;
 
 public class CanPlaceFlower {
     public static void main(String[] args) {
