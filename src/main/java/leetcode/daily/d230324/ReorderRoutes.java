@@ -1,4 +1,4 @@
-package leetcode.daily.d20230324;
+package leetcode.daily.d230324;
 
 import java.util.*;
 

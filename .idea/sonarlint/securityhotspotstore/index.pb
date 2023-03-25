@@ -93,3 +93,7 @@ s
 Csrc/main/java/leetcode/daily/d230322/MinimumScoreBetweenCities.java,d/c/dc6d1aecb68911271ddec39b09d53ed2ffcf978b
 ^
 .src/main/java/leetcode/daily/d230322/input.txt,8/4/842f2420fed86cdf4ee58229d19af81b0ab0fe5b
+^
+.src/main/java/leetcode/daily/d230323/input.txt,e/a/ea2c48c81d98edfa8105c8297e70788da147c4ce
+}
+Msrc/main/java/leetcode/daily/d230323/NumberOperationMakeNetworkConnected.java,3/e/3ea36880983c692dda4b74d1a01656fb07619465
