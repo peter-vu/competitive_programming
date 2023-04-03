@@ -1,0 +1,12 @@
+
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(İ¹ğı
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Å¶¢Óıÿÿÿÿ8šªªµó0
+?
+java:S1659""Declare "cols" on a separate line.(Ïø¶Ó8›ªªµó0
+N
+java:S1197	",Move the array designators [][] to the type.(Ã¦Øˆüÿÿÿÿ8œªªµó0
+P
+java:S1197
+".Move the array designators [][][] to the type.(•£çüÿÿÿÿ8œªªµó0

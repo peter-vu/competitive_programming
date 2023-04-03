@@ -101,3 +101,13 @@ g
 7src/main/java/leetcode/daily/d230324/ReorderRoutes.java,2/0/20398c34f88d091c6e2e4744c45e560ed4a5b7ab
 n
 >src/main/java/leetcode/daily/d230325/CountUnreachablePair.java,3/b/3bb58a415fa86627eb169e723f5e12fd3d9a1d90
+h
+8src/main/java/leetcode/daily/d230328/MinCostTickets.java,0/7/07111335a04c14f20e65e1a54eeac361ebe9241f
+h
+8src/main/java/leetcode/daily/d230330/ScrambleString.java,1/8/18fe66e960483136397e9c20e214ae7d248a4cbf
+h
+8src/main/java/leetcode/daily/d230327/MinimumPathSum.java,8/3/836ee4d7fd4b12facfa8872ce7723a5385613aff
+f
+6src/main/java/leetcode/daily/d230331/CuttingPizza.java,a/c/acdd34be4391049271bf693f1999b299e5e9eeb5
+h
+8src/main/java/leetcode/daily/d230329/ReducingDishes.java,3/6/3671d0801b4128501720edc59f825d09e47e068c
