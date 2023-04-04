@@ -1,0 +1,22 @@
+
+g	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ç÷÷ˆô0
+g	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ç÷÷ˆô0
+g	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8è÷÷ˆô0
+k
+java:S1192%"NDefine a constant instead of duplicating this literal "thread name: " 3 times.(ûíË¹8è÷÷ˆô0
+]	java:S125"<This block of commented-out lines of code should be removed.(Ñó¡ùÿÿÿÿ8ºşª‰ô0
+{
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ò÷÷ˆô0
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ûíË¹8ó÷÷ˆô0
+{
+java:S21420"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ó÷÷ˆô0
+X
+java:S26963"6Make the enclosing method "static" or remove this set.(ëæûÿÿÿÿÿ8ó÷÷ˆô0
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¿°ú‡8õ÷÷ˆô0
+:
+java:S51649"Call "remove()" on "sb".(òùŞ¿ıÿÿÿÿ8âë–‰ô0
+a
+java:S16129"?Replace this lambda with method reference 'StringBuilder::new'.(òùŞ¿ıÿÿÿÿ8ãë–‰ô0
+{
+java:S2142?"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ô÷÷ˆô0
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(Şó„›ıÿÿÿÿ8ä×ûˆô0
