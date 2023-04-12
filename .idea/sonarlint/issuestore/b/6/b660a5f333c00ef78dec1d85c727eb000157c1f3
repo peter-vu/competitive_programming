@@ -1,27 +1,35 @@
 
-b	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(îüõÈ8ôñÔèê0
-b	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Û¾‰‘8ôñÔèê0
-b	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(Ä¨×8ôñÔèê0
+b	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(îüõÈ8ôñÔèê0
+b	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Û¾‰‘8ôñÔèê0
+b	java:S112K"FDefine and throw a dedicated exception instead of using a generic one.(Ä¨×8ôñÔèê0
 o
-java:S1192,"RDefine a constant instead of duplicating this literal "Deserialization: " 3 times.(şéË8õñÔèê0
+java:S11925"RDefine a constant instead of duplicating this literal "Deserialization: " 3 times.(şéË8õñÔèê0
 y
-java:S1192$"WDefine a constant instead of duplicating this literal "src/main/java/test.txt" 3 times.(èÿ°àıÿÿÿÿ8õñÔèê0
+java:S1192-"WDefine a constant instead of duplicating this literal "src/main/java/test.txt" 3 times.(èÿ°àıÿÿÿÿ8õñÔèê0
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÕÓ–á8¶üÃàö0
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¥“À—8¶üÃàö0
 7
 java:S1220""Move this file to a named package.8öñÔèê0
-m
-java:S2095E"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(½ò¬µ8şñÔèê0
 j
-java:S2095)"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(üºˆÃ8şñÔèê0
-k
-java:S2095%"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(çœ¬å8şñÔèê0
+java:S20952"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(üºˆÃ8şñÔèê0
+m
+java:S2095N"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(½ò¬µ8şñÔèê0
 q
-java:S2095I"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(‹åÿßøÿÿÿÿ8şñÔèê0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(„›Ÿ úÿÿÿÿ8òÔèê0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ñ™ïØ8ƒòÔèê0
-U	java:S106,"9Replace this use of System.out or System.err by a logger.(şéË8…òÔèê0
+java:S2095R"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(‹åÿßøÿÿÿÿ8şñÔèê0
+k
+java:S2095."NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(çœ¬å8şñÔèê0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÓ–á8òÔèê0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥“À—8ƒòÔèê0
+H
+java:S1172"+Remove this unused method parameter "args".(×®Ë¢8ÒÏÃàö0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(„›Ÿ úÿÿÿÿ8…òÔèê0
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ñ™ïØ8‡òÔèê0
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(şéË8ÚÖèê0
 D
-java:S19059"'Remove this unnecessary cast to "List".(îœó 8…òÔèê0
+java:S1905B"'Remove this unnecessary cast to "List".(îœó 8…òÔèê0
 C
-java:S1905="'Remove this unnecessary cast to "List".(×àÇ!8…òÔèê0
-U	java:S106>"9Replace this use of System.out or System.err by a logger.(şéË8‡òÔèê0
-U	java:S106K"9Replace this use of System.out or System.err by a logger.(şéË8ÚÖèê0
+java:S1905F"'Remove this unnecessary cast to "List".(×àÇ!8…òÔèê0
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(şéË8×üÃàö0
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(şéË8ÜüÃàö0
