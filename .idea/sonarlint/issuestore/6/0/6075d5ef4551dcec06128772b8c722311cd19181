@@ -1,0 +1,8 @@
+
+v
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(•­Πª8ζΨφω0
+j
+java:S3824#"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(…ήΊ όÿÿÿÿ8μ‘φω0
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(βΏ΄ÿÿÿÿÿ8πΨφω0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΨΙΣÒ8ςΨφω0

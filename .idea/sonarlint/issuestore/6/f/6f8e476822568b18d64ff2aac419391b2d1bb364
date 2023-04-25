@@ -1,7 +1,0 @@
-
-Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ø¶¤÷üÿÿÿÿ8‘¦Êöö0
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ñù£–8ÔÅËöö0
-X	java:S125"<This block of commented-out lines of code should be removed.(­ŞÔ’8’¦Êöö0
-M
-java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18“¦Êöö0

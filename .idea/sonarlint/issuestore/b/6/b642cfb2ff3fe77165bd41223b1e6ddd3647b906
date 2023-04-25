@@ -1,6 +1,0 @@
-
-g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(·¬¦ºúÿÿÿÿ8ì÷®¤ð0
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÿ«Ñýÿÿÿÿ8í÷®¤ð0
-}
-java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "num".(ïÜ”ðùÿÿÿÿ8î÷®¤ð0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8ù÷®¤ð0
