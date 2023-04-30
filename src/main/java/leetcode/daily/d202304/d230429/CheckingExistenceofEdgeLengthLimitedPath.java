@@ -5,6 +5,10 @@ import java.util.Comparator;
 
 public class CheckingExistenceofEdgeLengthLimitedPath {
 }
+/*
+This is an implementation of UnionFind Data Structure
+
+*/
 
 class UnionFind {
     private int[] group;

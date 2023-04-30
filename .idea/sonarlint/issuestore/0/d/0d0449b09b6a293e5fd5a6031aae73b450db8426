@@ -1,0 +1,8 @@
+
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¹Ø”Æ8êÀá«ü0
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¨³M8íÀá«ü0
+8
+java:S3626"Remove this redundant jump.(ûÁİ…8íÀá«ü0
+9
+java:S11166"Remove this empty statement.(º¼Î²8ñÀá«ü0

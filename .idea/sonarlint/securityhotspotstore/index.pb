@@ -39,3 +39,15 @@ n
 >src/main/java/leetcode/daily/d202304/d230423/RestoreArray.java,a/1/a17270a0b233c1ff1b460da2f9783117bae20ba3
 r
 Bsrc/main/java/leetcode/daily/d202304/d230421/ProfitableScheme.java,6/8/68099f6159c66bc2d639e401878776ddf79ee7bf
+n
+>src/main/java/leetcode/daily/d202304/d230427/BulbSwitcher.java,6/a/6a0c13b7ab9f9fb72978f63966dbc8e07f019dcb
+{
+Ksrc/main/java/leetcode/daily/d202304/d230425/SmallestNumberInfiniteSet.java,7/5/757a86d1a41171b0368b62478bc2487bc4eecb5b
+q
+Asrc/main/java/leetcode/daily/d202304/d230424/LastStoneWeight.java,f/3/f3a11ab07b5fadbbf967f4f6cda2f537c28c1f89
+k
+;src/main/java/leetcode/daily/d202304/d230426/AddDigits.java,3/5/3552e2354e927b031a8a092617ea03f70850e5c3
+p
+@src/main/java/leetcode/weekly/w727/MinimumWindowSubsequence.java,7/f/7fbe3ff59bb263eecd6fefc2f2ab32f7468e4121
+u
+Esrc/main/java/leetcode/daily/d202304/d230428/SimilarStringGroups.java,0/d/0d0449b09b6a293e5fd5a6031aae73b450db8426
