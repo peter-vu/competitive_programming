@@ -7,6 +7,10 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
+import java.util.Optional;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
+import java.util.stream.Stream;
 
 /**
  * Notes for serialization size 1 million objects
@@ -17,13 +21,11 @@ import java.util.Objects;
  */
 public class Test {
     public static void main(String[] args) {
-        Long a1 = 1L;
-        Long a2 = 1L;
-        System.out.println(a1 == a2);
-
-        Long b1 = 1000L;
-        Long b2 = 1000L;
-        System.out.println(b1 == b2);
+        Stream<Integer> a = Stream.of(1,2,3);
+        a
+                .map(x -> x * 2 )
+                .filter(x -> x%2 == 0)
+                .collect(Collectors.toList());
     }
     public static void main1(String[] args) throws Exception {
         long timeSum = 0;

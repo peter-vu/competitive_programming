@@ -23,8 +23,6 @@ h
 8src/main/java/daily/duplicatesymbol/DuplicateSymbol.java,7/1/71e34bb9333cb0ec0ba3189d88c2e204043ba409
 W
 'src/main/java/test/TestThreadLocal.java,9/6/9617d5d8b63d32871380635340916a5ca52635a1
-G
-src/main/java/Test.java,b/6/b660a5f333c00ef78dec1d85c727eb000157c1f3
 K
 src/test/java/TestUnit.java,7/1/7140fe4c27a40afe6337f2800daf22fafb513c0d
 7
