@@ -1,9 +1,0 @@
-
-t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Üãˆ…ûÿÿÿÿ
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÁö²üÿÿÿÿ
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ó¾þþÿÿÿÿ
-X
-java:S2094"BRemove this empty class, write its code or make it an "interface".(šòáÛ
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(äì”ê8ñÎ™Óæ0
